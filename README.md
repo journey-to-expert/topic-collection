@@ -21,8 +21,9 @@
 
 - Web Vitals
 - Lighthouse
-- 前端效能優化大補帖
-- Web Performance in Action
+- 前端效能優化大補帖(Boook)
+- Web Performance in Action(Book)
+- https://developer.mozilla.org/en-US/docs/Web/Performance
 
 ### JS 進階
 
@@ -35,9 +36,33 @@
 - [Practical Modern JavaScript](https://github.com/mjavascript/practical-modern-javascript)
 - JavaScript: The Advanced Concepts - https://zerotomastery.io/courses/advanced-javascript-concepts/
 
-### 資料結構
+### Docker
+
+### CI/CD
+
+### 瀏覽器
+
+- https://rwerplus.github.io/pages/53ab0a/
+- https://github.com/poetries/browser-working-principle
+- https://web.dev/articles/howbrowserswork
+
+### 資料結構與演算法
+
+- Udemy 的課
+- Algorithm Design Manual(Book)
+- NeetCode
+- Blind 75
 
 ### 作業系統
 
 - 要先學 C 語言
 - Operating Systems: Three Easy Pieces
+- RTOS
+
+### 計算機組織
+
+- Nand To Tetris
+
+### DDIA
+
+- https://github.com/Vonng/ddia
