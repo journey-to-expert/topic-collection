@@ -47,7 +47,9 @@
 - https://web.dev/articles/howbrowserswork
 - https://github.com/bellard/quickjs
 - https://browser.engineering/
-- 
+- https://github.com/danbev/learning-v8
+- https://github.com/champkeh/learn-js-engine
+- https://v8.dev/docs
 
 ### 資料結構與演算法
 
