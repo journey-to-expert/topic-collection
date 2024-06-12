@@ -45,6 +45,9 @@
 - https://rwerplus.github.io/pages/53ab0a/
 - https://github.com/poetries/browser-working-principle
 - https://web.dev/articles/howbrowserswork
+- https://github.com/bellard/quickjs
+- https://browser.engineering/
+- 
 
 ### 資料結構與演算法
 
