@@ -36,6 +36,16 @@
 - [Practical Modern JavaScript](https://github.com/mjavascript/practical-modern-javascript)
 - JavaScript: The Advanced Concepts - https://zerotomastery.io/courses/advanced-javascript-concepts/
 
+### 打包工具
+
+- vite
+- rspack
+- rollup
+- tsup
+- webpack
+
+### babel
+
 ### Docker
 
 ### CI/CD
